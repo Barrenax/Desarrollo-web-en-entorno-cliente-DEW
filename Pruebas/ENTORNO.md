@@ -16,7 +16,7 @@ VS Code: 1.137.0
 x64
 
 
-### Extenciones instaladas en VS code
+### Extensiones instaladas en VS code
 
 Live server
 
