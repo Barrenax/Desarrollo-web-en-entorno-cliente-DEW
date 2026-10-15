@@ -1,11 +1,10 @@
-//Pablo Barrena Brito
 
 
 /* =====================================================================
    Prueba UD2 · Versión B · Ejercicio 4 · Amplía el código
    Mini consola con menú
    ---------------------------------------------------------------------
-   Nombre y apellidos: ______________________________________________
+   Nombre y apellidos: Pablo Barrena Brito
 
    El programa ya funciona con las opciones 1 y 2. Tu tarea:
      a) Escribe la función contarPasosCollatz(numero) con JSDoc.
@@ -13,6 +12,10 @@
      c) Conecta la opción 3 al menú (texto del menú y case del switch).
    No modifiques pedirNumero ni las opciones 1 y 2.
    ===================================================================== */
+
+
+
+   
 'use strict';
 if (typeof prompt === 'undefined') { require('./_node-prompt.js'); } // solo actúa en Node
 
