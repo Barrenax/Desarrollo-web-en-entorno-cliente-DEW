@@ -85,6 +85,8 @@ const coste = costeAparcamiento( minutos, vehiculoTexto);
 
 const mensaje = coste == null;
 
+"datos no validos"
+"coste del aparcamiento "
 
 
 console.log(mensaje);
